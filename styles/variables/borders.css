@@ -1,0 +1,16 @@
+/* corners */
+:root {
+  --corners-rounding-small: 10px;
+  --corners-rounding-medium: 15px;
+  --corners-rounding-large: 20px;
+}
+
+/* border widths */
+:root {
+  --border-width-normal: 4px;
+}
+
+/* borders */
+:root {
+  --border-dashed-normal: var(--border-width-normal) dashed;
+}

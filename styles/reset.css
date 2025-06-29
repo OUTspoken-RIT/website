@@ -1,0 +1,42 @@
+body,
+h1,
+h1:not(:last-child),
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+div,
+header,
+footer,
+nav,
+section,
+article,
+aside,
+main,
+ul,
+ol,
+li,
+table,
+th,
+td,
+a,
+span,
+strong,
+em,
+img,
+button,
+input,
+label,
+textarea,
+li {
+  font-family: Onest, Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style: none !important;
+  padding-inline-start: 0 !important;
+}

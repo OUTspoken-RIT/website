@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Onest:wght@100..900&display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css");
+
+/* font sizes */
+:root {
+  --font-size-heading-1: 40px;
+  --font-size-heading-2: 32px;
+  --font-size-heading-3: 20px;
+  --font-size-heading-4: 18px;
+  --font-size-heading-5: 18px;
+  --font-size-subheading: 16px;
+  --font-size-body: 16px;
+}
+
+/* font weights */
+:root {
+  --font-weight-heading-1: 800;
+  --font-weight-heading-2: 700;
+  --font-weight-heading-3: 700;
+  --font-weight-heading-4: 600;
+  --font-weight-heading-5: 600;
+  --font-weight-subheading: 700;
+  --font-weight-body: 500;
+}
+
+/* fonts */
+:root {
+  --font-family: Onest, Roboto, Helvetica, sans-serif;
+  --font-heading-1: var(--font-weight-heading-1) var(--font-size-heading-1) /
+    normal var(--font-family);
+  --font-heading-2: var(--font-weight-heading-2) var(--font-size-heading-2) /
+    normal var(--font-family);
+  --font-heading-3: var(--font-weight-heading-3) var(--font-size-heading-3) /
+    normal var(--font-family);
+  --font-heading-4: var(--font-weight-heading-4) var(--font-size-heading-4) /
+    normal var(--font-family);
+  --font-heading-5: var(--font-weight-heading-5) var(--font-size-heading-5) /
+    normal var(--font-family);
+  --font-subheading: var(--font-weight-subheading) var(--font-size-subheading) /
+    normal var(--font-family);
+  --font-body: var(--font-weight-body) var(--font-size-body) / normal
+    var(--font-family);
+}
+
+/* font colors */
+:root {
+  --font-color-heading-1: var(--black);
+  --font-color-heading-2: var(--black);
+  --font-color-heading-3: var(--asphalt);
+  --font-color-heading-4: var(--asphalt);
+  --font-color-heading-5: var(--tabby-gray);
+  --font-color-subheading: var(--periwinkle);
+  --font-color-body: var(--asphalt);
+  --font-color-links: var(--periwinkle);
+}
+
+/* desktop styles */
+@media only screen and (min-width: 768px) {
+  :root {
+    --font-size-heading-1: 80px;
+    --font-size-heading-2: 40px;
+    --font-size-heading-3: 28px;
+    --font-size-heading-4: 24px;
+    --font-size-heading-5: 24px;
+    --font-size-subheading: 32px;
+    --font-size-body: 20px;
+  }
+}

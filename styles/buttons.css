@@ -1,0 +1,116 @@
+
+@keyframes pulse {
+  from {
+    scale: 100%;
+  }
+
+  to {
+    scale: 101%;
+  }
+}
+
+@keyframes wiggle {
+  0%,
+  10%,
+  100% {
+    transform: rotate(0);
+  }
+
+  2.5% {
+    transform: rotate(-3deg);
+  }
+
+  7.5% {
+    transform: rotate(3deg);
+  }
+}
+
+.button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: var(--margin-xs);
+
+  font: var(--font-heading-3);
+  text-decoration: none;
+  color: var(--black);
+  background-color: var(--sunshine-yellow);
+
+  max-width: 380px;
+  padding: var(--padding-s);
+  border-radius: var(--corners-rounding-large);
+
+  transition: 0.2s;
+}
+
+.button:hover {
+  gap: var(--margin-s);
+  animation: pulse 0.4s cubic-bezier(0.2, 0, 0.8, 1) infinite alternate,
+    wiggle 4s infinite 4s;
+}
+
+.button:active {
+  padding-left: var(--margin-m);
+  padding-right: 0;
+  animation: none;
+  transform: translate(5px, 0);
+}
+
+.button::after {
+  content: var(--icon-arrow-right);
+  font-family: var(--font-icon-regular);
+}
+
+.button.primary {
+  background-color: var(--sunshine-yellow);
+}
+.button.primary-dark {
+  background-color: var(--serene-indigo);
+}
+.button.positive {
+  background-color: var(--fern);
+}
+.button.negative {
+  background-color: var(--lively-red);
+}
+.button.foam {
+  background-color: var(--foam);
+}
+.button.white {
+  background-color: var(--white);
+}
+
+.button.primary,
+.button.positive,
+.button.foam,
+.button.white {
+  color: var(--black)
+}
+
+.button.primary-dark,
+.button.negative {
+  color: var(--white)
+}
+
+.icon-button {
+  color: var(--periwinkle);
+  transition: 0.1s;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  width: 30px;
+}
+
+.icon-button > svg {
+  height: 24px;
+}
+
+.icon-button:hover {
+  color: var(--spirited-violet);
+}
+
+.icon-button:active {
+  transform: scale(.7);
+}

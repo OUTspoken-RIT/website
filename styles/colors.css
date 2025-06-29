@@ -1,0 +1,114 @@
+.color-foam {
+  background-color: var(--foam);
+  color: var(--black);
+}
+
+.color-magic-turquoise {
+  background-color: var(--magic-turquoise);
+  color: var(--black);
+}
+
+.color-sky-blue {
+  background-color: var(--sky-blue);
+  color: var(--black);
+}
+
+.color-serene-indigo {
+  background-color: var(--serene-indigo);
+  color: var(--white);
+}
+
+.color-royal-purple {
+  background-color: var(--royal-purple);
+  color: var(--white);
+}
+
+.color-burgundy {
+  background-color: var(--burgundy);
+  color: var(--white);
+}
+
+.color-lively-red {
+  background-color: var(--lively-red);
+  color: var(--black);
+}
+
+.color-healing-orange {
+  background-color: var(--healing-orange);
+  color: var(--black);
+}
+
+.color-tangerine {
+  background-color: var(--tangerine);
+  color: var(--black);
+}
+
+.color-sunshine-yellow {
+  background-color: var(--sunshine-yellow);
+  color: var(--black);
+}
+
+.color-white {
+  background-color: var(--white);
+  color: var(--black);
+}
+
+.color-sensual-pink {
+  background-color: var(--sensual-pink);
+  color: var(--black);
+}
+
+.color-bubblegum {
+  background-color: var(--bubblegum);
+  color: var(--black);
+}
+
+.color-plum {
+  background-color: var(--plum);
+  color: var(--white);
+}
+
+.color-spirited-violet {
+  background-color: var(--spirited-violet);
+  color: var(--white);
+}
+
+.color-periwinkle {
+  background-color: var(--periwinkle);
+  color: var(--white);
+}
+
+.color-dryer-lint {
+  background-color: var(--dryer-lint);
+  color: var(--white);
+}
+
+.color-tabby-gray {
+  background-color: var(--tabby-gray);
+  color: var(--white);
+}
+
+.color-asphalt {
+  background-color: var(--asphalt);
+  color: var(--white);
+}
+
+.color-black {
+  background-color: var(--black);
+  color: var(--white);
+}
+
+.color-moss {
+  background-color: var(--moss);
+  color: var(--white);
+}
+
+.color-natural-green {
+  background-color: var(--natural-green);
+  color: var(--black);
+}
+
+.color-fern {
+  background-color: var(--fern);
+  color: var(--black);
+}

@@ -1,0 +1,320 @@
+/* underlines */
+:root {
+  --underline-background-settings: bottom left / 100% 18% no-repeat;
+
+  --underline-light-progress: linear-gradient(
+      to right,
+      var(--asphalt) 0%,
+      var(--asphalt) 12.5%,
+      var(--burgundy) 12.5%,
+      var(--burgundy) 25%,
+      var(--lively-red) 25%,
+      var(--lively-red) 37.5%,
+      var(--tangerine) 37.5%,
+      var(--tangerine) 50%,
+      var(--sunshine-yellow) 50%,
+      var(--sunshine-yellow) 62.5%,
+      var(--fern) 62.5%,
+      var(--fern) 75%,
+      var(--magic-turquoise) 75%,
+      var(--magic-turquoise) 87.5%,
+      var(--periwinkle) 87.5%,
+      var(--periwinkle) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-light-gilbert: linear-gradient(
+      to right,
+      var(--sensual-pink) 0%,
+      var(--sensual-pink) 12.5%,
+      var(--lively-red) 12.5%,
+      var(--lively-red) 25%,
+      var(--tangerine) 25%,
+      var(--tangerine) 37.5%,
+      var(--sunshine-yellow) 37.5%,
+      var(--sunshine-yellow) 50%,
+      var(--fern) 50%,
+      var(--fern) 62.5%,
+      var(--magic-turquoise) 62.5%,
+      var(--magic-turquoise) 75%,
+      var(--sky-blue) 75%,
+      var(--sky-blue) 87.5%,
+      var(--periwinkle) 87.5%,
+      var(--periwinkle) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-light-rainbow: linear-gradient(
+      to right,
+      var(--sensual-pink) 0%,
+      var(--sensual-pink) 16.67%,
+      var(--tangerine) 16.67%,
+      var(--tangerine) 33.33%,
+      var(--sunshine-yellow) 33.33%,
+      var(--sunshine-yellow) 50%,
+      var(--fern) 50%,
+      var(--fern) 66.67%,
+      var(--magic-turquoise) 66.67%,
+      var(--magic-turquoise) 83.33%,
+      var(--periwinkle) 83.33%,
+      var(--periwinkle) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-normal-progress: linear-gradient(
+      to right,
+      var(--asphalt) 0%,
+      var(--asphalt) 12.5%,
+      var(--burgundy) 12.5%,
+      var(--burgundy) 25%,
+      var(--lively-red) 25%,
+      var(--lively-red) 37.5%,
+      var(--healing-orange) 37.5%,
+      var(--healing-orange) 50%,
+      var(--sunshine-yellow) 50%,
+      var(--sunshine-yellow) 62.5%,
+      var(--natural-green) 62.5%,
+      var(--natural-green) 75%,
+      var(--sky-blue) 75%,
+      var(--sky-blue) 87.5%,
+      var(--spirited-violet) 87.5%,
+      var(--spirited-violet) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-normal-gilbert: linear-gradient(
+      to right,
+      var(--sensual-pink) 0%,
+      var(--sensual-pink) 12.5%,
+      var(--lively-red) 12.5%,
+      var(--lively-red) 25%,
+      var(--healing-orange) 25%,
+      var(--healing-orange) 37.5%,
+      var(--sunshine-yellow) 37.5%,
+      var(--sunshine-yellow) 50%,
+      var(--fern) 50%,
+      var(--fern) 62.5%,
+      var(--magic-turquoise) 62.5%,
+      var(--magic-turquoise) 75%,
+      var(--sky-blue) 75%,
+      var(--sky-blue) 87.5%,
+      var(--spirited-violet) 87.5%,
+      var(--spirited-violet) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-normal-rainbow: linear-gradient(
+      to right,
+      var(--lively-red) 0%,
+      var(--lively-red) 16.67%,
+      var(--healing-orange) 16.67%,
+      var(--healing-orange) 33.33%,
+      var(--sunshine-yellow) 33.33%,
+      var(--sunshine-yellow) 50%,
+      var(--natural-green) 50%,
+      var(--natural-green) 66.67%,
+      var(--sky-blue) 66.67%,
+      var(--sky-blue) 83.33%,
+      var(--spirited-violet) 83.33%,
+      var(--spirited-violet) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-normal-aro: linear-gradient(
+      to right,
+      var(--moss) 0%,
+      var(--moss) 20%,
+      var(--fern) 20%,
+      var(--fern) 40%,
+      var(--white) 40%,
+      var(--white) 60%,
+      var(--dryer-lint) 60%,
+      var(--dryer-lint) 80%,
+      var(--asphalt) 80%,
+      var(--asphalt) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-normal-lesbian: linear-gradient(
+      to right,
+      var(--lively-red) 0%,
+      var(--lively-red) 20%,
+      var(--tangerine) 20%,
+      var(--tangerine) 40%,
+      var(--white) 40%,
+      var(--white) 60%,
+      var(--sensual-pink) 60%,
+      var(--sensual-pink) 80%,
+      var(--plum) 80%,
+      var(--plum) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-normal-trans: linear-gradient(
+      to right,
+      var(--magic-turquoise) 0%,
+      var(--magic-turquoise) 20%,
+      var(--sensual-pink) 20%,
+      var(--sensual-pink) 40%,
+      var(--white) 40%,
+      var(--white) 60%,
+      var(--sensual-pink) 60%,
+      var(--sensual-pink) 80%,
+      var(--magic-turquoise) 80%,
+      var(--magic-turquoise) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-normal-ace: linear-gradient(
+      to right,
+      var(--asphalt) 0%,
+      var(--asphalt) 25%,
+      var(--dryer-lint) 25%,
+      var(--dryer-lint) 50%,
+      var(--white) 50%,
+      var(--white) 75%,
+      var(--spirited-violet) 75%,
+      var(--spirited-violet) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-normal-nonbinary: linear-gradient(
+      to right,
+      var(--sunshine-yellow) 0%,
+      var(--sunshine-yellow) 25%,
+      var(--white) 25%,
+      var(--white) 50%,
+      var(--spirited-violet) 50%,
+      var(--spirited-violet) 75%,
+      var(--asphalt) 75%,
+      var(--asphalt) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-normal-pansexual: linear-gradient(
+      to right,
+      var(--bubblegum) 0%,
+      var(--bubblegum) 33.33%,
+      var(--sunshine-yellow) 33.33%,
+      var(--sunshine-yellow) 66.67%,
+      var(--magic-turquoise) 66.67%,
+      var(--magic-turquoise) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-normal-bisexual: linear-gradient(
+      to right,
+      var(--bubblegum) 0%,
+      var(--bubblegum) 33.33%,
+      var(--spirited-violet) 33.33%,
+      var(--spirited-violet) 66.67%,
+      var(--serene-indigo) 66.67%,
+      var(--serene-indigo) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-dark-progress: linear-gradient(
+      to right,
+      var(--black) 0%,
+      var(--black) 12.5%,
+      var(--burgundy) 12.5%,
+      var(--burgundy) 25%,
+      var(--lively-red) 25%,
+      var(--lively-red) 37.5%,
+      var(--healing-orange) 37.5%,
+      var(--healing-orange) 50%,
+      var(--tangerine) 50%,
+      var(--tangerine) 62.5%,
+      var(--moss) 62.5%,
+      var(--moss) 75%,
+      var(--serene-indigo) 75%,
+      var(--serene-indigo) 87.5%,
+      var(--royal-purple) 87.5%,
+      var(--royal-purple) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-dark-rainbow: linear-gradient(
+      to right,
+      var(--plum) 0%,
+      var(--plum) 16.67%,
+      var(--lively-red) 16.67%,
+      var(--lively-red) 33.33%,
+      var(--tangerine) 33.33%,
+      var(--tangerine) 50%,
+      var(--moss) 50%,
+      var(--moss) 66.67%,
+      var(--serene-indigo) 66.67%,
+      var(--serene-indigo) 83.33%,
+      var(--royal-purple) 83.33%,
+      var(--royal-purple) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-dark-aro: linear-gradient(
+      to right,
+      var(--moss) 0%,
+      var(--moss) 20%,
+      var(--natural-green) 20%,
+      var(--natural-green) 40%,
+      var(--foam) 40%,
+      var(--foam) 60%,
+      var(--tabby-gray) 60%,
+      var(--tabby-gray) 80%,
+      var(--black) 80%,
+      var(--black) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-dark-trans: linear-gradient(
+      to right,
+      var(--sky-blue) 0%,
+      var(--sky-blue) 20%,
+      var(--bubblegum) 20%,
+      var(--bubblegum) 40%,
+      var(--white) 40%,
+      var(--white) 60%,
+      var(--bubblegum) 60%,
+      var(--bubblegum) 80%,
+      var(--sky-blue) 80%,
+      var(--sky-blue) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-dark-ace: linear-gradient(
+      to right,
+      var(--black) 0%,
+      var(--black) 25%,
+      var(--tabby-gray) 25%,
+      var(--tabby-gray) 50%,
+      var(--foam) 50%,
+      var(--foam) 75%,
+      var(--royal-purple) 75%,
+      var(--royal-purple) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-dark-nonbinary: linear-gradient(
+      to right,
+      var(--tangerine) 0%,
+      var(--tangerine) 25%,
+      var(--foam) 25%,
+      var(--foam) 50%,
+      var(--royal-purple) 50%,
+      var(--royal-purple) 75%,
+      var(--black) 75%,
+      var(--black) 100%
+    )
+    var(--underline-background-settings);
+
+  --underline-dark-pansexual: linear-gradient(
+      to right,
+      var(--bubblegum) 0%,
+      var(--bubblegum) 33.33%,
+      var(--tangerine) 33.33%,
+      var(--tangerine) 66.67%,
+      var(--sky-blue) 66.67%,
+      var(--sky-blue) 100%
+    )
+    var(--underline-background-settings);
+}

@@ -1,0 +1,20 @@
+/* fontawesome */
+:root {
+  --font-icon-regular: "Font Awesome 6 Free";
+  --font-icon-brand: "Font Awesome 6 Brands";
+}
+
+/* icons */
+:root {
+  --icon-arrow-right: "\f061";
+  --icon-facebook: "\f09a";
+  --icon-twitter: "\f099";
+  --icon-instagram: "\f16d";
+  --icon-discord: "\f392";
+  --icon-email: "\f0e0";
+  --icon-heart: "\f004";
+  --icon-clock: "\f017";
+  --icon-calendar: "\f133";
+  --icon-phone: "\f095";
+  --icon-pin: "\f3c5";
+}

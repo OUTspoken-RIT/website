@@ -1,0 +1,162 @@
+/* Body */
+body,
+p {
+  font: var(--font-body);
+  color: var(--font-color-body);
+}
+
+/* Heading 1 */
+h1,
+.h1 {
+  font: var(--font-heading-1);
+  color: var(--font-color-heading-1);
+  line-height: 0.9;
+}
+
+/* Heading 2 */
+h2,
+.h2 {
+  font: var(--font-heading-2);
+  color: var(--font-color-heading-2);
+  line-height: 0.8;
+}
+
+/* Heading 3 */
+h3,
+.h3 {
+  font: var(--font-heading-3);
+  color: var(--font-color-heading-3);
+  line-height: 0.8;
+}
+
+/* Heading 4 */
+h4,
+.h4 {
+  font: var(--font-heading-4);
+  color: var(--font-color-heading-4);
+}
+
+/* Heading 5 */
+h5,
+.h5 {
+  font: var(--font-heading-5);
+  color: var(--font-color-heading-5);
+}
+
+h1,
+.h1,
+.subheading {
+  letter-spacing: -0.04rem;
+}
+
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5 {
+  letter-spacing: -0.07rem;
+}
+
+/* Subheading */
+.subheading {
+  font: var(--font-subheading);
+  color: var(--font-color-subheading);
+}
+
+/* Links */
+a:not(.button, .icon-button),
+.link-underline {
+  color: var(--font-color-links);
+  text-decoration: underline;
+  text-decoration-style: wavy;
+}
+
+/* Speech Bubble */
+.speech-bubble {
+  z-index: 1;
+  position: relative;
+  background-color: var(--foam);
+  font: var(--font-heading-3);
+  color: var(--tabby-gray);
+
+  padding: var(--padding-xs) var(--padding-s);
+  border-radius: var(--corners-rounding-large);
+}
+
+.speech-bubble::after {
+  z-index: 0;
+  content: "";
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  bottom: -20px;
+  left: 5px;
+
+  background: url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2232%22%20height%3D%2230%22%20viewBox%3D%220%200%2032%2030%22%20fill%3D%22none%22%3E%3Cpath%20d%3D%22M0.0857709%2025.5961C-0.332609%2028.1606%202.48542%2030.0081%204.67038%2028.6017L31.0378%2011.6293L4.17988%200.5L0.0857709%2025.5961Z%22%20fill%3D%22%23D9E4F2%22%2F%3E%3C%2Fsvg%3E")
+    no-repeat;
+  background-size: contain; /* Adjust background size as needed */
+}
+
+.speech-bubble.down::after {
+  bottom: -20px;
+  top: auto;
+}
+.speech-bubble.up::after {
+  rotate: x 0.5turn;
+  top: -20px;
+  bottom: auto;
+}
+.speech-bubble.right::after {
+  transform: rotateY(0.5turn);
+  right: 5px;
+  left: auto;
+}
+.speech-bubble.left::after {
+  left: 5px;
+  right: auto;
+}
+
+/* Emphasis */
+.emph {
+  background-color: var(--foam);
+  padding: var(--padding-xs) var(--padding-s);
+  border-radius: var(--corners-rounding-medium);
+}
+
+.emph:not(
+    h1 .emph,
+    .h1 .emph,
+    h2 .emph,
+    .h2 .emph,
+    h3 .emph,
+    .h3 .emph,
+    h4 .emph,
+    .h4 .emph,
+    h5 .emph,
+    .h5 .emph
+  ) {
+  padding: 0 var(--padding-xs);
+}
+
+.icon-title {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: center;
+  gap: var(--margin-m);
+}
+
+.icon-title .icon {
+  flex-shrink: 1;
+  height: 64px;
+}
+
+/* desktop styles */
+@media only screen and (min-width: 768px) {
+  .icon-title .icon {
+    height: 96px;
+  }
+}

@@ -1,0 +1,90 @@
+/* Default underline */
+.underlined {
+  display: inline-block;
+  width: fit-content;
+  background: linear-gradient(to right, var(--periwinkle), var(--periwinkle))
+    var(--underline-background-settings);
+}
+
+/* Flag Classes */
+.underlined.progress {
+  background: var(--underline-normal-progress);
+}
+
+.underlined.gilbert {
+  background: var(--underline-normal-gilbert);
+}
+
+.underlined.rainbow {
+  background: var(--underline-normal-rainbow);
+}
+
+.underlined.aro {
+  background: var(--underline-normal-aro);
+}
+
+.underlined.lesbian {
+  background: var(--underline-normal-lesbian);
+}
+
+.underlined.trans {
+  background: var(--underline-normal-trans);
+}
+
+.underlined.ace {
+  background: var(--underline-normal-ace);
+}
+
+.underlined.nonbinary {
+  background: var(--underline-normal-nonbinary);
+}
+
+.underlined.pansexual {
+  background: var(--underline-normal-pansexual);
+}
+
+.underlined.bisexual {
+  background: var(--underline-normal-bisexual);
+}
+
+/* Dark Variants */
+.underlined.progress.dark {
+  background: var(--underline-dark-progress);
+}
+
+.underlined.rainbow.dark {
+  background: var(--underline-dark-rainbow);
+}
+
+.underlined.aro.dark {
+  background: var(--underline-dark-aro);
+}
+
+.underlined.trans.dark {
+  background: var(--underline-dark-trans);
+}
+
+.underlined.ace.dark {
+  background: var(--underline-dark-ace);
+}
+
+.underlined.nonbinary.dark {
+  background: var(--underline-dark-nonbinary);
+}
+
+.underlined.pansexual.dark {
+  background: var(--underline-dark-pansexual);
+}
+
+/* Light Variants */
+.underlined.progress.light {
+  background: var(--underline-light-progress);
+}
+
+.underlined.gilbert.light {
+  background: var(--underline-light-gilbert);
+}
+
+.underlined.rainbow.light {
+  background: var(--underline-light-rainbow);
+}
