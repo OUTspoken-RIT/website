@@ -78,7 +78,7 @@ export function ClubsAndEvents() {
           our annual Rainbow Prom, as well as educational events and
           presentations about RIT and LGBTQ+ topics.
         </p>
-        <LinkButton color="white" href="/clubs">
+        <LinkButton color="white" href="/events">
           Explore events
         </LinkButton>
         <svg
