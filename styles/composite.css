@@ -614,3 +614,12 @@ img.rounded {
     border-right: var(--border-dashed-normal) var(--periwinkle);
   }
 }
+
+.join-button {
+  max-width: 440px;
+  gap: var(--margin-m)
+}
+
+.join-button > h2 {
+  color: var(--serene-indigo);
+}
