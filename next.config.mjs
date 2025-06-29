@@ -3,7 +3,8 @@ const nextConfig = {
   reactStrictMode: true,
   output: "export",
   basePath: "/website",
-  assetPrefix: "/website"
+  assetPrefix: "/website",
+  distDir: "docs",
 };
 
 export default nextConfig;
