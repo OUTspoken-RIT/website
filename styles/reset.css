@@ -30,7 +30,8 @@ button,
 input,
 label,
 textarea,
-li {
+li,
+.btn {
   font-family: Onest, Arial, Helvetica, sans-serif;
   margin: 0;
   margin-top: 0;
