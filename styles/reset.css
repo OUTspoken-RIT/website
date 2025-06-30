@@ -40,8 +40,3 @@ ul {
   list-style: none !important;
   padding-inline-start: 0 !important;
 }
-
-p + a:not(.btn) {
-  font-size: unset;
-  line-height: unset;
-}
