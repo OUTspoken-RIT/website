@@ -188,7 +188,7 @@ Use the regular `<h1>`-`<h5>` elements or use the `h1`-`h5` class.
 | Component | `<Subheading>`                                                |
 | Source    | [/ui/type/Typography.jsx](/components/ui/type/Typography.jsx) |
 
-![Subheading styles](/.github/media/typography/subheading.png)
+![Subheading styles](/.github/media/typography/Subheading.png)
 
 ```html
 <Subheading>This is a subheading.</Subheading>
@@ -198,7 +198,7 @@ Use the regular `<h1>`-`<h5>` elements or use the `h1`-`h5` class.
 
 Is applied to any text not already styled.
 
-![Body styles](/.github/media/typography/body.png)
+![Body styles](/.github/media/typography/Body.png)
 
 ```html
 <p>queerum ipsum dolor sit amet.</p>
@@ -206,7 +206,7 @@ Is applied to any text not already styled.
 
 #### Links
 
-![Link styles](/.github/media/typography/link.png)
+![Link styles](/.github/media/typography/Link.png)
 
 ```html
 <!-- regular a element -->
@@ -220,9 +220,9 @@ Is applied to any text not already styled.
 | Component | `<Underline>`                                               |
 | Source    | [/ui/type/Underline.jsx](/components/ui/type/Underline.jsx) |
 
-![Light underline colors](/.github/media/typography/underline-light.png)
-![Normal underline colors](/.github/media/typography/underline-normal.png)
-![Dark underline colors](/.github/media/typography/underline-dark.png)
+![Light underline colors](/.github/media/typography/Underline-Light.png)
+![Normal underline colors](/.github/media/typography/Underline-Normal.png)
+![Dark underline colors](/.github/media/typography/Underline-Dark.png)
 
 ```html
 <Underline shade="light" variant="rainbow">This text is underlined.</Underline>
@@ -235,7 +235,7 @@ Is applied to any text not already styled.
 | Component | `<SpeechBubble>`                                              |
 | Source    | [/ui/type/Typography.jsx](/components/ui/type/Typography.jsx) |
 
-![Speech bubble styles](/.github/media/typography/speech-bubble.png)
+![Speech bubble styles](/.github/media/typography/Speech-Bubble.png)
 
 ```html
 <SpeechBubble tail="down right">This is a speech bubble.</SpeechBubble>
@@ -248,7 +248,7 @@ Is applied to any text not already styled.
 | Component | `<Bubble>`                                                    |
 | Source    | [/ui/type/Typography.jsx](/components/ui/type/Typography.jsx) |
 
-![Bubble styles](/.github/media/typography/bubble.png)
+![Bubble styles](/.github/media/typography/Bubble.png)
 
 ```html
 <Bubble>I'm emphasized!</Bubble>
@@ -265,7 +265,7 @@ These buttons are ready to go! Just plug in the link.
 | Component | `<LinkButton>`                                |
 | Source    | [/ui/Buttons.jsx](/components/ui/Buttons.jsx) |
 
-![Button styles](/.github/media/buttons/link-button.png)
+![Button styles](/.github/media/buttons/Link-Button.png)
 
 ```html
 <LinkButton color="primary" href="/">I'm a button</LinkButton>
@@ -278,7 +278,7 @@ These buttons are ready to go! Just plug in the link.
 | Component | `<IconButton />`                              |
 | Source    | [/ui/Buttons.jsx](/components/ui/Buttons.jsx) |
 
-![Icon button styles](/.github/media/buttons/icon-button.png)
+![Icon button styles](/.github/media/buttons/Icon-Button.png)
 
 ```html
 <IconButton icon="discord" href="/" />
@@ -295,7 +295,7 @@ Boxes for holding elements!
 | Component | `<Box>`                                                                   |
 | Source    | [/ui/containers/SimpleBoxes.jsx](/components/ui/containers/SimpleBoxes.jsx) |
 
-![Box styles](/.github/media/containers/box.png)
+![Box styles](/.github/media/containers/Box.png)
 
 ```html
 <Box color="foam">
@@ -309,7 +309,7 @@ Boxes for holding elements!
 |Component|`<DashedBox>`|
 |Source|[/ui/containers/SimpleBoxes.jsx](/components/ui/containers/SimpleBoxes.jsx)|
 
-![Dashed box styles](/.github/media/containers/dashed-box.png)
+![Dashed box styles](/.github/media/containers/Dashed-Box.png)
 
 ```html
 <DashedBox color="foam">
@@ -323,7 +323,7 @@ Boxes for holding elements!
 |Component|`<FancyBox>`|
 |Source|[/ui/containers/FancyBox.jsx](/components/ui/containers/FancyBox.jsx)|
 
-![Fancy box styles](/.github/media/containers/fancy-box.png)
+![Fancy box styles](/.github/media/containers/Fancy-Box.png)
 
 ```html
 <FancyBox>
@@ -344,7 +344,7 @@ Every OUTspoken pride flag, logo, icon, and wordmark we've made!
 |Component|`<PrideFlag />`|
 |Source|[/ui/assets/flags/Flags.jsx](/components/ui/assets/flags/Flags.jsx)|
 
-![Pride flags](/.github/media/assets/pride-flag.png)
+![Pride flags](/.github/media/assets/Pride-Flag.png)
 
 ```html
 <PrideFlag variant="progress" />
@@ -356,7 +356,7 @@ Every OUTspoken pride flag, logo, icon, and wordmark we've made!
 |Component|`<BrandIcon />`|
 |Source|[/ui/assets/logos/Logos.jsx](/components/ui/assets/logos/Logos.jsx)|
 
-![Icons](/.github/media/assets/icon.png)
+![Icons](/.github/media/assets/Icon.png)
 
 ```html
 <BrandIcon shape="square" color="rainbow" />
@@ -368,7 +368,7 @@ Every OUTspoken pride flag, logo, icon, and wordmark we've made!
 |Component|`<Wordmark />`|
 |Source|[/ui/assets/wordmarks/Wordmark.jsx](/components/ui/assets/wordmarks/Wordmark.jsx)|
 
-![Wordmarks](/.github/media/assets/wordmark.png)
+![Wordmarks](/.github/media/assets/Wordmark.png)
 
 ```html
 <Wordmark style="lockup" />
@@ -380,7 +380,7 @@ Every OUTspoken pride flag, logo, icon, and wordmark we've made!
 |Component|`<Logo />`|
 |Source|[/ui/assets/logos/Logos.jsx](/components/ui/assets/logos/Logos.jsx)|
 
-![Outspoken logos](/.github/media/assets/logo.png)
+![Outspoken logos](/.github/media/assets/Logo.png)
 
 ```html
 <Logo weight="solid" color="rainbow" />
@@ -392,7 +392,7 @@ Every OUTspoken pride flag, logo, icon, and wordmark we've made!
 |Component|`<SecondaryLogo />`|
 |Source|[/ui/assets/logos/Logos.jsx](/components/ui/assets/logos/Logos.jsx)|
 
-![Other logos](/.github/media/assets/secondary-logo.png)
+![Other logos](/.github/media/assets/Secondary-Logo.png)
 
 ```html
 <SecondaryLogo logo="rainbow-heart" />
