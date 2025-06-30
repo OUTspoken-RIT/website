@@ -3,7 +3,7 @@ import { SpeechBubble } from "../ui";
 export function Hero() {
   return (
     <header className="hero">
-      <span className="h2">
+      <h2>
         welcome
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 53 64" fill="none">
           <path
@@ -19,7 +19,7 @@ export function Hero() {
             fill="#FF9D0A"
           />
         </svg>
-      </span>
+      </h2>
       <h1 className="big-letters">
         <span>h</span>
         <span>o</span>
