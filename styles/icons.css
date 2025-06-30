@@ -35,3 +35,7 @@
   border: 2px solid var(--foam);
   text-transform: uppercase;
 }
+
+.svg-inline--fa {
+  height: 2ex;
+}
