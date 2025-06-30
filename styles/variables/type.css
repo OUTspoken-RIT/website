@@ -48,9 +48,9 @@
   --font-heading-5: var(--font-weight-heading-5) var(--font-size-heading-5) /
     var(--font-line-height-heading-5) var(--font-family);
   --font-subheading: var(--font-weight-subheading) var(--font-size-subheading) /
-    var(--font-line-height-heading-subheading) var(--font-family);
+    var(--font-line-height-subheading) var(--font-family);
   --font-body: var(--font-weight-body) var(--font-size-body) /
-    var(--font-line-height-heading-body) var(--font-family);
+    var(--font-line-height-body) var(--font-family);
 }
 
 /* font colors */
