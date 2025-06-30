@@ -40,6 +40,7 @@
   max-width: 380px;
   padding: var(--padding-s);
   border-radius: var(--corners-rounding-large);
+  border: none;
 
   transition: 0.2s;
 }
