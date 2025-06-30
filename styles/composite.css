@@ -309,7 +309,7 @@ img.rounded {
   position: relative;
   align-self: flex-end;
   padding: var(--margin-s) var(--margin-m);
-  max-width: 110px;
+  max-width: 150px;
 }
 
 .hero > .speech-bubble > h3 {
@@ -334,7 +334,7 @@ img.rounded {
   }
 
   .hero > .speech-bubble {
-    max-width: 160px;
+    max-width: 200px;
   }
 }
 
