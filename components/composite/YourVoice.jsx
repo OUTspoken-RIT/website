@@ -8,9 +8,11 @@ export function YourVoice() {
         <SpeechBubble tail="down right">we’ll amplify it!</SpeechBubble>
       </FancyBoxHeader>
       <FancyBoxContent>
-        OUTspoken is committed to amplifying queer voices. We have a voting seat
-        in Student Government and we work directly with RIT to ensure that
-        policies are fair and just for all students.
+        <p>
+          OUTspoken is committed to amplifying queer voices. We have a voting
+          seat in Student Government and we work directly with RIT to ensure
+          that policies are fair and just for all students.
+        </p>
       </FancyBoxContent>
     </FancyBox>
   );

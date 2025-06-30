@@ -9,5 +9,5 @@ export function FancyBoxHeader({ children }) {
 }
 
 export function FancyBoxContent({ children }) {
-  return <p className="content">{children}</p>;
+  return <section className="content">{children}</section>;
 }

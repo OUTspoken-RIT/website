@@ -42,10 +42,12 @@ export function BrasAndBinders() {
         </div>
       </FancyBoxHeader>
       <FancyBoxContent>
-        We partner with the Women, Gender, and Sexuality Resouce Center to stock
-        all the resources you'll need to thrive. We provide a variety of free
-        resources for LGBTQ+ students including bras, binders, contraception,
-        menstrual products, and clothing.
+        <p>
+          We partner with the Women, Gender, and Sexuality Resouce Center to
+          stock all the resources you'll need to thrive. We provide a variety of
+          free resources for LGBTQ+ students including bras, binders,
+          contraception, menstrual products, and clothing.
+        </p>
         <LinkButton href="/closet">Get resources</LinkButton>
       </FancyBoxContent>
     </FancyBox>
