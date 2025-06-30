@@ -402,7 +402,7 @@ img.rounded {
 .clubs-and-events > .meet-people {
   grid-column: 3 / 5;
   grid-row: 4 / 6;
-  width: 222px;
+  width: 240px;
   height: 170px;
   margin-top: var(--margin-m);
   justify-self: right;
