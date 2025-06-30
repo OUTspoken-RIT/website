@@ -157,6 +157,7 @@ img.rounded {
   gap: var(--margin-s);
   padding: var(--margin-m);
   border-radius: var(--corners-rounding-large);
+  align-self: stretch;
 }
 
 .officer-bio > img {
