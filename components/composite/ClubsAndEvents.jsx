@@ -16,7 +16,7 @@ export function ClubsAndEvents() {
           Our mission is to bring people together. We partner with clubs for
           every identity on the LGBTQ+ spectrum so you can find your community.
         </p>
-        <LinkButton color="white" href="/clubs">
+        <LinkButton color="white" href="/clubs/">
           Explore clubs
         </LinkButton>
         <svg
@@ -78,7 +78,7 @@ export function ClubsAndEvents() {
           our annual Rainbow Prom, as well as educational events and
           presentations about RIT and LGBTQ+ topics.
         </p>
-        <LinkButton color="white" href="/events">
+        <LinkButton color="white" href="/events/">
           Explore events
         </LinkButton>
         <svg

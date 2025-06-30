@@ -1,6 +1,6 @@
 import { SpeechBubble } from "../ui";
 
-export function Hero({ children }) {
+export function Hero() {
   return (
     <header className="hero">
       <span className="h2">

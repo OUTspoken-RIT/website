@@ -48,7 +48,7 @@ export function BrasAndBinders() {
           free resources for LGBTQ+ students including bras, binders,
           contraception, menstrual products, and clothing.
         </p>
-        <LinkButton href="/closet">Get resources</LinkButton>
+        <LinkButton href="/closet/">Get resources</LinkButton>
       </FancyBoxContent>
     </FancyBox>
   );
