@@ -5,6 +5,7 @@ const nextConfig = {
   // basePath: "/website",
   // assetPrefix: "/website",
   // distDir: "docs",
+  trailingSlash: true,
 };
 
 export default nextConfig;
