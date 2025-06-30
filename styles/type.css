@@ -74,6 +74,7 @@ a:not(.button, .icon-button),
 /* Speech Bubble */
 .speech-bubble {
   z-index: 1;
+  isolation: isolate;
   position: relative;
   background-color: var(--foam);
   font: var(--font-heading-3);
@@ -82,9 +83,8 @@ a:not(.button, .icon-button),
   padding: var(--padding-xs) var(--padding-s);
   border-radius: var(--corners-rounding-large);
 }
-
 .speech-bubble::after {
-  z-index: 0;
+  z-index: -1;
   content: "";
   position: absolute;
   width: 32px;
