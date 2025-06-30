@@ -205,11 +205,14 @@ Is applied to any text not already styled.
 ```
 
 #### Links
-Be sure to use the `<Link>` element so that links work properly
+Use `<Link>` element for local links (page to page).
+Use `<a>` element for external links (linking to another website).
 
 ![Link styles](/.github/media/typography/Link.png)
 
 ```html
+<a>this is a link</a>
+
 <Link>this is a link</Link>
 ```
 
