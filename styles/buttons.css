@@ -39,6 +39,7 @@
 
   max-width: 380px;
   padding: var(--padding-s);
+  margin: 0;
   border-radius: var(--corners-rounding-large);
   border: none;
 
