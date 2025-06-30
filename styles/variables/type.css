@@ -12,6 +12,17 @@
   --font-size-body: 16px;
 }
 
+/* font line heights */
+:root {
+  --font-line-height-heading-1: 0.9;
+  --font-line-height-heading-2: 0.8;
+  --font-line-height-heading-3: 0.8;
+  --font-line-height-heading-4: normal;
+  --font-line-height-heading-5: normal;
+  --font-line-height-subheading: normal;
+  --font-line-height-body: normal;
+}
+
 /* font weights */
 :root {
   --font-weight-heading-1: 800;
@@ -27,19 +38,19 @@
 :root {
   --font-family: Onest, Roboto, Helvetica, sans-serif;
   --font-heading-1: var(--font-weight-heading-1) var(--font-size-heading-1) /
-    normal var(--font-family);
+    var(--font-line-height-heading-1) var(--font-family);
   --font-heading-2: var(--font-weight-heading-2) var(--font-size-heading-2) /
-    normal var(--font-family);
+    var(--font-line-height-heading-2) var(--font-family);
   --font-heading-3: var(--font-weight-heading-3) var(--font-size-heading-3) /
-    normal var(--font-family);
+    var(--font-line-height-heading-3) var(--font-family);
   --font-heading-4: var(--font-weight-heading-4) var(--font-size-heading-4) /
-    normal var(--font-family);
+    var(--font-line-height-heading-4) var(--font-family);
   --font-heading-5: var(--font-weight-heading-5) var(--font-size-heading-5) /
-    normal var(--font-family);
+    var(--font-line-height-heading-5) var(--font-family);
   --font-subheading: var(--font-weight-subheading) var(--font-size-subheading) /
-    normal var(--font-family);
-  --font-body: var(--font-weight-body) var(--font-size-body) / normal
-    var(--font-family);
+    var(--font-line-height-heading-subheading) var(--font-family);
+  --font-body: var(--font-weight-body) var(--font-size-body) /
+    var(--font-line-height-heading-body) var(--font-family);
 }
 
 /* font colors */

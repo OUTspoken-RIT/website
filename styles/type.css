@@ -10,7 +10,6 @@ h1,
 .h1 {
   font: var(--font-heading-1);
   color: var(--font-color-heading-1);
-  line-height: 0.9;
 }
 
 /* Heading 2 */
@@ -18,7 +17,6 @@ h2,
 .h2 {
   font: var(--font-heading-2);
   color: var(--font-color-heading-2);
-  line-height: 0.8;
 }
 
 /* Heading 3 */
@@ -26,7 +24,6 @@ h3,
 .h3 {
   font: var(--font-heading-3);
   color: var(--font-color-heading-3);
-  line-height: 0.8;
 }
 
 /* Heading 4 */
