@@ -40,11 +40,14 @@
   max-width: 380px;
   padding: var(--padding-s);
   margin: 0;
-  margin-bottom: 0;
   border-radius: var(--corners-rounding-large);
   border: none;
 
   transition: 0.2s;
+}
+
+.button.button {
+  margin: 0;
 }
 
 .button:hover {
