@@ -205,12 +205,12 @@ Is applied to any text not already styled.
 ```
 
 #### Links
+Be sure to use the `<Link>` element so that links work properly
 
 ![Link styles](/.github/media/typography/Link.png)
 
 ```html
-<!-- regular a element -->
-<a>this is a link</a>
+<Link>this is a link</Link>
 ```
 
 #### Underline
