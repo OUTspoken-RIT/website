@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Icon } from "./Icon";
 
 export function LinkButton({ href, color, children }) {
@@ -13,9 +14,9 @@ export function LinkButton({ href, color, children }) {
   const safeColor = validColors.includes(color) ? color : "primary";
 
   return (
-    <a href={href} className={`button ${safeColor}`}>
+    <Link href={href} className={`button ${safeColor}`}>
       {children}
-    </a>
+    </Link>
   );
 }
 
