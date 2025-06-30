@@ -212,9 +212,9 @@ export default function Clubs() {
           </ClubListingMeetingInfo>
         </ClubListing>
 
-        {/* RITGA */}
+        {/* SAGA */}
         <ClubListing
-          clubName="RITGA"
+          clubName="SAGA"
           shortName="ritga"
           logo="https://campusgroups.rit.edu/upload/rit/2017/flyer_image_upload_548562_ritgalogooriginal_101910646_crop.jpg"
           underline="rainbow"
@@ -223,17 +223,17 @@ export default function Clubs() {
         >
           <ClubListingDescription>
             <p>
-              RITGA is RIT’s group for gay, lesbian, bisexual, transgender,
+              SAGA is RIT’s group for gay, lesbian, bisexual, transgender,
               and/or any queer identifying persons and allies.
             </p>
             <p>
-              The goal of RITGA is to provide a space for people in the
+              The goal of SAGA is to provide a space for people in the
               community to come together and feel safe in their identities
               through general meetings and club events.
             </p>
           </ClubListingDescription>
           <ClubListingMeetingInfo>
-            <p>RITGA's meeting times are TBD.</p>
+            <p>SAGA's meeting times are TBD.</p>
           </ClubListingMeetingInfo>
         </ClubListing>
 
