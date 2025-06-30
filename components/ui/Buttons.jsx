@@ -22,7 +22,7 @@ export function LinkButton({ href, color, children }) {
 
 export function IconButton({ href, icon }) {
   return (
-    <a href={href} className="btn icon-button">
+    <a href={href} className="icon-button">
       <Icon icon={icon} />
     </a>
   );
