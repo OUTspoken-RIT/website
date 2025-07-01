@@ -3,6 +3,12 @@
 The webpages are automatically loaded into CampusGroups. Pages edited here will automatically update in CampusGroups. 
 
 ## Contents
+- [Editing](#editing)
+  - [Prerequisites](#prerequisites)
+  - [Clone the repo](#clone-the-repo)
+  - [Install the dependencies](#install-the-dependencies)
+  - [See changes live](#see-changes-live)
+  - [Push changes to the site](#push-your-changes-to-the-site)
 - [Structure](#structure)
   - [Pages](#pages)
   - [Components](#components)
@@ -13,6 +19,44 @@ The webpages are automatically loaded into CampusGroups. Pages edited here will 
   - [Buttons](#buttons)
   - [Containers](#containers)
   - [Assets](#assets)
+
+## Editing
+### Prerequisites
+#### Node.js and NPM
+This project uses `Node.js` and `NPM`.
+You can go to [https://nodejs.org/en/download/](https://nodejs.org/en/download/) for steps to install both.
+#### Git
+You will need `git` to download and update the files. You can go to [https://github.com/git-guides/install-git](https://github.com/git-guides/install-git) for steps to install git.
+
+It's recommended you use a code editor such as Visual Studio Code so that you can easily make changes and push them to the website.
+
+### Clone the repo
+Copy the files onto your machine by running the following command in your terminal
+```shell
+git clone https://github.com/OUTspoken-RIT/website.git
+cd website
+```
+
+### Install the dependencies
+The website uses React and Next.js to convert custom components into a webpage. You can install both with the following command
+```shell
+npm install
+```
+
+### See changes live
+You can see your changes while editing by running the following command
+```shell
+npm run dev
+```
+It will allow you to view the website on your machine in real-time.
+
+### Push your changes to the site
+You can push your changes to the website by running the following command
+```shell
+git add .
+git commit -m "your message"
+git push
+```
 
 ## Structure
 
