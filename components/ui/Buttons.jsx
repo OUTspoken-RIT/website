@@ -14,7 +14,7 @@ export function LinkButton({ href, color, children }) {
   const safeColor = validColors.includes(color) ? color : "primary";
 
   return (
-    <Link href={href} className={`btn button ${safeColor}`}>
+    <Link href={href} className={`button ${safeColor}`}>
       {children}
     </Link>
   );

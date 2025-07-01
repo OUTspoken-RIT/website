@@ -46,10 +46,6 @@
   transition: 0.2s;
 }
 
-.button.button {
-  margin: 0;
-}
-
 .button:hover {
   text-decoration: none;
   gap: var(--margin-s);
