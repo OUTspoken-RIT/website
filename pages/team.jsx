@@ -34,11 +34,11 @@ export default function Team() {
           name="Angelis Cordero"
           position="President"
           pronouns="She/her"
-          flags="lgbt"
+          flags="lesbian"
           email="ajc4439@g.rit.edu"
-          officeHours="TBD"
+          officeHours="M-Th 3-4pm"
         >
-          <OfficerMajor>Nth Year - Basket Weaving BS</OfficerMajor>
+          <OfficerMajor>5th Year - Robotics and Manufacturing Engineering Technology BS</OfficerMajor>
           <OfficerFunFact>Fun fact about me!</OfficerFunFact>
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
@@ -49,9 +49,9 @@ export default function Team() {
           pronouns="he/him"
           flags="lgbt"
           email="lag8761@g.rit.edu"
-          officeHours="TBD"
+          officeHours="M: 4-6pm, T&Th: 11am-12pm"
         >
-          <OfficerMajor>Nth Year - Basket Weaving BS</OfficerMajor>
+          <OfficerMajor>2nd Year - Finance and Accounting BS</OfficerMajor>
           <OfficerFunFact>Fun fact about me!</OfficerFunFact>
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
@@ -60,11 +60,11 @@ export default function Team() {
           name="Valentine Johnson"
           position="Director of Finance"
           pronouns="he/xe/they"
-          flags="lgbt trans nonbinary bi"
+          flags="trans nonbinary bi"
           email="vgj4216@rit.edu"
-          officeHours="TBD"
+          officeHours="W: 5-6pm, F: 1-4pm"
         >
-          <OfficerMajor>1st year - Illustration BFA</OfficerMajor>
+          <OfficerMajor>2nd year - Illustration BFA</OfficerMajor>
           <OfficerFunFact>I’ll beat you at any fighting game I’ve never played!</OfficerFunFact>
           <OfficerWorkingOn>I’m excited to get pierced TF 🆙</OfficerWorkingOn>
         </OfficerBio>
@@ -72,13 +72,13 @@ export default function Team() {
           image="https://campusgroups.rit.edu/images/ico/male_user_large.png"
           name="Emily Lu"
           position="Director of Marketing"
-          pronouns="pro/nouns"
+          pronouns="she/her"
           flags="lgbt"
           email="el2902@rit.edu"
-          officeHours="TBD"
+          officeHours="M: 1-3pm"
         >
-          <OfficerMajor>Nth Year - Basket Weaving BS</OfficerMajor>
-          <OfficerFunFact>Fun fact about me!</OfficerFunFact>
+          <OfficerMajor>2nd Year - Graphic Design BFA</OfficerMajor>
+          <OfficerFunFact>I can make 11 different types of buttercream!</OfficerFunFact>
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
         <OfficerBio
@@ -88,9 +88,9 @@ export default function Team() {
           pronouns="she/her"
           flags="lgbt"
           email="em1792@rit.edu"
-          officeHours="TBD"
+          officeHours="T&Th: 12:30-1:30pm"
         >
-          <OfficerMajor>Nth Year - Basket Weaving BS</OfficerMajor>
+          <OfficerMajor>2nd Year - Cognitive Science PhD</OfficerMajor>
           <OfficerFunFact>Fun fact about me!</OfficerFunFact>
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
@@ -98,12 +98,12 @@ export default function Team() {
           image="https://campusgroups.rit.edu/upload/rit/2021/s3_image_885649_upload_828132210_828132210.jpg"
           name="Tadhg Hicken"
           position="Director of Internal Relations"
-          pronouns="pro/nouns"
-          flags="lgbt"
+          pronouns="they/he"
+          flags="trans nb ace"
           email="blh1342@rit.edu"
-          officeHours="TBD"
+          officeHours="T&Th: 2-3pm"
         >
-          <OfficerMajor>Nth Year - Basket Weaving BS</OfficerMajor>
+          <OfficerMajor>2nd Year - Cognitive Science PhD</OfficerMajor>
           <OfficerFunFact>Fun fact about me!</OfficerFunFact>
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
