@@ -1,4 +1,4 @@
-import { OfficerBio } from "@/components/";
+import { OfficerBio, OfficerCoffeeOrder, OfficerSong } from "@/components/";
 import {
   OfficerFunFact,
   OfficerMajor,
@@ -40,7 +40,7 @@ export default function Team() {
           officeHoursUrl="https://rit.zoom.us/j/95076270332"
         >
           <OfficerMajor>5th Year - Robotics and Manufacturing Engineering Technology BS</OfficerMajor>
-          <OfficerFunFact>Fun fact about me!</OfficerFunFact>
+          <OfficerCoffeeOrder>My go-to coffee order!\nIced coffee from Dunkin with two pumps of butter pecan and 1 caramel pump with coffee oat milk</OfficerCoffeeOrder>
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
         <OfficerBio
@@ -54,7 +54,7 @@ export default function Team() {
         >
           <OfficerMajor>2nd Year - Finance and Accounting BS</OfficerMajor>
           <OfficerFunFact>Fun fact about me!</OfficerFunFact>
-          <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
+          <OfficerSong>My song currently on repeat!\nPlease Don''t Call (333) by Khalid</OfficerSong>
         </OfficerBio>
         {/* <OfficerBio
           image="https://campusgroups.rit.edu/upload/rit/2024/flyer_image_2735125_valentine_e60c74cc-6796-477d-97db-b5810ecbcb5d_920135814.jpg"
@@ -79,7 +79,7 @@ export default function Team() {
           officeHours="T & Th: 12:30-1:30pm"
         >
           <OfficerMajor>2nd Year - Cognitive Science PhD</OfficerMajor>
-          <OfficerFunFact>Fun fact about me!</OfficerFunFact>
+          <OfficerFunFact>Fun fact about me!\nI competed in the pickle juice drinking contest at Picklesburgh 2025 (didn't win though..) </OfficerFunFact>
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
         <OfficerBio
@@ -92,7 +92,7 @@ export default function Team() {
           officeHours="T: 3-5pm"
         >
           <OfficerMajor>1st Year - B.S. Software Engineering</OfficerMajor>
-          <OfficerFunFact>I can make 11 different types of buttercream!</OfficerFunFact>
+          <OfficerCoffeeOrder>My go-to coffee order!\nIced Carmel Macchiato</OfficerCoffeeOrder>
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
         <OfficerBio
@@ -105,7 +105,7 @@ export default function Team() {
           officeHours="T & Th: 2-3pm"
         >
           <OfficerMajor>2nd Year - Cognitive Science PhD</OfficerMajor>
-          <OfficerFunFact>Fun fact about me!</OfficerFunFact>
+          <OfficerFunFact>Fun fact about me!\nI'm a climber!</OfficerFunFact>
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
       </CenteredLayout>
