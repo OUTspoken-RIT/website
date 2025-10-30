@@ -67,6 +67,7 @@ h5,
 a:not(.button, .icon-button),
 .link-underline {
   color: var(--font-color-links);
+  text-decoration: none;
 }
 
 /* Speech Bubble */
