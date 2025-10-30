@@ -36,7 +36,8 @@ export default function Team() {
           pronouns="She/Her"
           flags="lesbian"
           email="ajc4439@g.rit.edu"
-          officeHours="M & T 7-9pm (remote)"
+          officeHours="M & T 7-9pm"
+          officeHoursUrl="https://rit.zoom.us/j/95076270332"
         >
           <OfficerMajor>5th Year - Robotics and Manufacturing Engineering Technology BS</OfficerMajor>
           <OfficerFunFact>Fun fact about me!</OfficerFunFact>

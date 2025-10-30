@@ -18,7 +18,14 @@ export function OfficerBio({
   email,
   children,
   officeHours,
+  officeHoursUrl,
 }) {
+
+  let remoteOrNothing = "";
+  if (officeHoursUrl !== undefined) {
+    remoteOrNothing = <a href={officeHoursUrl} target="_blank" title="Office Hours">(remote)</a>;
+  }
+
   return (
     <Container color="white" className="officer-bio">
       <img src={image} alt={`portrait of ${name}`} />
@@ -35,7 +42,7 @@ export function OfficerBio({
           <FontAwesomeIcon icon={faEnvelope} /> {email}
         </p>
         <p>
-          <FontAwesomeIcon icon={faClock} /> in office {officeHours}
+          <FontAwesomeIcon icon={faClock} /> in office {officeHours} {remoteOrNothing}
         </p>
       </div>
       <div className="flags h2">
