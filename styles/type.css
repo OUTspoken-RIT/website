@@ -64,10 +64,9 @@ h5,
 }
 
 /* Links */
-a:not(.button, .icon-button) {
+a:not(.button, .icon-button),
+.link-underline {
   color: var(--font-color-links);
-  text-decoration: underline;
-  text-decoration-style: wavy;
 }
 
 /* Speech Bubble */
