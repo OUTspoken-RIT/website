@@ -64,8 +64,7 @@ h5,
 }
 
 /* Links */
-a:not(.button, .icon-button),
-.link-underline {
+a:not(.button, .icon-button) {
   color: var(--font-color-links);
   text-decoration: underline;
   text-decoration-style: wavy;
