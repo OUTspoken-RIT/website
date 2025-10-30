@@ -40,7 +40,8 @@ export default function Team() {
           officeHoursUrl="https://rit.zoom.us/j/95076270332"
         >
           <OfficerMajor>5th Year - Robotics and Manufacturing Engineering Technology BS</OfficerMajor>
-          <OfficerCoffeeOrder>My go-to coffee order!\nIced coffee from Dunkin with two pumps of butter pecan and 1 caramel pump with coffee oat milk</OfficerCoffeeOrder>
+          <OfficerCoffeeOrder>My go-to coffee order!
+            Iced coffee from Dunkin with two pumps of butter pecan and 1 caramel pump with coffee oat milk</OfficerCoffeeOrder>
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
         <OfficerBio
@@ -53,8 +54,9 @@ export default function Team() {
           officeHours="M: 4-5pm, T 11:15am-12:15pm, & Th: 3-4pm"
         >
           <OfficerMajor>2nd Year - Finance and Accounting BS</OfficerMajor>
-          <OfficerFunFact>Fun fact about me!</OfficerFunFact>
-          <OfficerSong>My song currently on repeat!\nPlease Don''t Call (333) by Khalid</OfficerSong>
+          <OfficerSong>My song currently on repeat!
+            Please Don''t Call (333) by Khalid</OfficerSong>
+          <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
         {/* <OfficerBio
           image="https://campusgroups.rit.edu/upload/rit/2024/flyer_image_2735125_valentine_e60c74cc-6796-477d-97db-b5810ecbcb5d_920135814.jpg"
@@ -79,7 +81,8 @@ export default function Team() {
           officeHours="T & Th: 12:30-1:30pm"
         >
           <OfficerMajor>2nd Year - Cognitive Science PhD</OfficerMajor>
-          <OfficerFunFact>Fun fact about me!\nI competed in the pickle juice drinking contest at Picklesburgh 2025 (didn't win though..) </OfficerFunFact>
+          <OfficerFunFact>Fun fact about me!
+            I competed in the pickle juice drinking contest at Picklesburgh 2025 (didn't win though..) </OfficerFunFact>
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
         <OfficerBio
@@ -92,7 +95,8 @@ export default function Team() {
           officeHours="T: 3-5pm"
         >
           <OfficerMajor>1st Year - B.S. Software Engineering</OfficerMajor>
-          <OfficerCoffeeOrder>My go-to coffee order!\nIced Carmel Macchiato</OfficerCoffeeOrder>
+          <OfficerCoffeeOrder>My go-to coffee order!
+            Iced Carmel Macchiato</OfficerCoffeeOrder>
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
         <OfficerBio
@@ -105,7 +109,8 @@ export default function Team() {
           officeHours="T & Th: 2-3pm"
         >
           <OfficerMajor>2nd Year - Cognitive Science PhD</OfficerMajor>
-          <OfficerFunFact>Fun fact about me!\nI'm a climber!</OfficerFunFact>
+          <OfficerFunFact>Fun fact about me!
+            I'm a climber!</OfficerFunFact>
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
       </CenteredLayout>

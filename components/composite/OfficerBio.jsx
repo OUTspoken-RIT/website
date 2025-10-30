@@ -5,7 +5,7 @@ import {
   faStar,
   faGears,
   faMusic,
-  faCupTogo,
+  faMugHot,
 } from "@fortawesome/free-solid-svg-icons";
 import { faEnvelope, faClock } from "@fortawesome/free-regular-svg-icons";
 import { PrideFlag, Subheading } from "../ui";
@@ -87,7 +87,7 @@ export function OfficerSong({ children }) {
 export function OfficerCoffeeOrder({ children }) {
   return (
     <OfficerFact>
-      <FontAwesomeIcon icon={faCupTogo} /> {children}
+      <FontAwesomeIcon icon={faMugHot} /> {children}
     </OfficerFact>
   );
 }
