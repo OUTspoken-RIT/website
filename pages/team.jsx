@@ -30,7 +30,7 @@ export default function Team() {
       </CenteredLayout>
       <CenteredLayout color="foam">
         <OfficerBio
-          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_Angelis_aba1627a-7181-4964-982c-e77cb4e549b6_1131638.jpg"
+          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_Angelis_5462edc9-46c5-4ea9-a0a2-05a1244572d2_112204328.jpg"
           name="Angelis Cordero"
           position="President"
           pronouns="She/Her"
@@ -42,10 +42,10 @@ export default function Team() {
           <OfficerMajor>5th Year - Robotics and Manufacturing Engineering Technology BS</OfficerMajor>
           <OfficerCoffeeOrder>My go-to coffee order!
             Iced coffee from Dunkin with two pumps of butter pecan and 1 caramel pump with coffee oat milk</OfficerCoffeeOrder>
-          <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
+          {/* <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn> */}
         </OfficerBio>
         <OfficerBio
-          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_Leo_9f20784e-f674-47fd-a6b2-26ae9445acb5_113144.jpg"
+          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_Leo_66915426-8228-4844-b013-e2e115d68312_112204344.jpg"
           name="Leonel Garcia"
           position="Vice President"
           pronouns="He/Him"
@@ -56,7 +56,7 @@ export default function Team() {
           <OfficerMajor>2nd Year - Finance and Accounting BS</OfficerMajor>
           <OfficerSong>My song currently on repeat!
             Please Don''t Call (333) by Khalid</OfficerSong>
-          <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
+          {/* <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn> */}
         </OfficerBio>
         {/* <OfficerBio
           image=""
@@ -72,7 +72,7 @@ export default function Team() {
           <OfficerWorkingOn></OfficerWorkingOn>
         </OfficerBio> */}
         <OfficerBio
-          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_Elena_f37a9440-01fa-4abb-84b0-5ea5909da072_113140.jpg"
+          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_Elena_8f5d65d8-9559-4f1b-b9b8-f874ded7b38f_11220441.jpg"
           name="Elena Georgia Mpadanes"
           position="Director of Programming"
           pronouns="She/Her"
@@ -83,10 +83,10 @@ export default function Team() {
           <OfficerMajor>2nd Year - Cognitive Science PhD</OfficerMajor>
           <OfficerFunFact>Fun fact about me!
             I competed in the pickle juice drinking contest at Picklesburgh 2025 (didn't win though..) </OfficerFunFact>
-          <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
+          {/* <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn> */}
         </OfficerBio>
         <OfficerBio
-          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_JD_ebc60ca1-eef6-4a36-92da-dfe0b1a09441_1122040.jpg"
+          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_JD_27529fc9-9bde-41d1-a0ce-2a1eb02720a6_112204417.jpg"
           name="JD Berzolla"
           position="Director of Marketing"
           pronouns="He/They"
@@ -97,10 +97,10 @@ export default function Team() {
           <OfficerMajor>1st Year - B.S. Software Engineering</OfficerMajor>
           <OfficerCoffeeOrder>My go-to coffee order!
             Iced Carmel Macchiato</OfficerCoffeeOrder>
-          <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
+          {/* <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn> */}
         </OfficerBio>
         <OfficerBio
-          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_Tadhg_8726f975-0d34-4cba-ae5c-f08a882eb0e2_11220444.jpg"
+          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_Tadhg_d983b3db-d424-4734-a36d-5c2fdc2fa072_112204313.jpg"
           name="Tadhg Hicken"
           position="Director of Internal Affairs"
           pronouns="They/He"
@@ -111,7 +111,7 @@ export default function Team() {
           <OfficerMajor>2nd Year - Cognitive Science PhD</OfficerMajor>
           <OfficerFunFact>Fun fact about me!
             I'm a climber!</OfficerFunFact>
-          <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
+          {/* <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn> */}
         </OfficerBio>
       </CenteredLayout>
     </div>
