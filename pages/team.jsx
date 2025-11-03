@@ -30,7 +30,7 @@ export default function Team() {
       </CenteredLayout>
       <CenteredLayout color="foam">
         <OfficerBio
-          image="https://campusgroups.rit.edu/get_file?eid=9cdd2b989ef5a73f52a1ca172178d4d3"
+          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_Angelis_aba1627a-7181-4964-982c-e77cb4e549b6_1131638.jpg"
           name="Angelis Cordero"
           position="President"
           pronouns="She/Her"
@@ -45,7 +45,7 @@ export default function Team() {
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
         <OfficerBio
-          image="https://campusgroups.rit.edu/get_file?eid=df37c1cb190031e4b501fcdd40f4f748"
+          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_Leo_9f20784e-f674-47fd-a6b2-26ae9445acb5_113144.jpg"
           name="Leonel Garcia"
           position="Vice President"
           pronouns="He/Him"
@@ -72,7 +72,7 @@ export default function Team() {
           <OfficerWorkingOn></OfficerWorkingOn>
         </OfficerBio> */}
         <OfficerBio
-          image="https://campusgroups.rit.edu/get_file?eid=bb1fbe86c08d43ee63c21af49591d3d0"
+          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_Elena_f37a9440-01fa-4abb-84b0-5ea5909da072_113140.jpg"
           name="Elena Georgia Mpadanes"
           position="Director of Programming"
           pronouns="She/Her"
@@ -86,7 +86,7 @@ export default function Team() {
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
         <OfficerBio
-          image="https://campusgroups.rit.edu/get_file?eid=847f22561e6928c04e09f88f8e3d245d"
+          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_JD_ebc60ca1-eef6-4a36-92da-dfe0b1a09441_1122040.jpg"
           name="JD Berzolla"
           position="Director of Marketing"
           pronouns="He/They"
@@ -100,7 +100,7 @@ export default function Team() {
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
         <OfficerBio
-          image="https://campusgroups.rit.edu/get_file?eid=827d4d2bd37e8f48c729271cc126222e"
+          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_Tadhg_8726f975-0d34-4cba-ae5c-f08a882eb0e2_11220444.jpg"
           name="Tadhg Hicken"
           position="Director of Internal Affairs"
           pronouns="They/He"
