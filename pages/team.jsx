@@ -30,7 +30,7 @@ export default function Team() {
       </CenteredLayout>
       <CenteredLayout color="foam">
         <OfficerBio
-          image="https://campusgroups.rit.edu/upload/rit/2025/s1_image_5160001_Angelis_f7a4e0b8-a0f2-4395-92ac-7cf6770a6a52_1030165711.jpg"
+          image="https://campusgroups.rit.edu/get_file?eid=9cdd2b989ef5a73f52a1ca172178d4d3"
           name="Angelis Cordero"
           position="President"
           pronouns="She/Her"
@@ -45,7 +45,7 @@ export default function Team() {
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
         <OfficerBio
-          image="https://campusgroups.rit.edu/upload/rit/2025/s1_image_5160001_Leo_e661cad3-c314-4266-a55e-984b388dda2f_1030165626.jpg"
+          image="https://campusgroups.rit.edu/get_file?eid=df37c1cb190031e4b501fcdd40f4f748"
           name="Leonel Garcia"
           position="Vice President"
           pronouns="He/Him"
@@ -59,20 +59,20 @@ export default function Team() {
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
         {/* <OfficerBio
-          image="https://campusgroups.rit.edu/upload/rit/2024/flyer_image_2735125_valentine_e60c74cc-6796-477d-97db-b5810ecbcb5d_920135814.jpg"
-          name="Valentine Johnson"
+          image=""
+          name=""
           position="Director of Finance"
-          pronouns="he/xe/they"
-          flags="trans nonbinary bi"
-          email="vgj4216@rit.edu"
-          officeHours="W: 5-6pm, F: 1-4pm"
+          pronouns=""
+          flags=""
+          email=""
+          officeHours=""
         >
-          <OfficerMajor>2nd year - Illustration BFA</OfficerMajor>
-          <OfficerFunFact>I’ll beat you at any fighting game I’ve never played!</OfficerFunFact>
-          <OfficerWorkingOn>I’m excited to get pierced TF 🆙</OfficerWorkingOn>
+          <OfficerMajor></OfficerMajor>
+          <OfficerFunFact></OfficerFunFact>
+          <OfficerWorkingOn></OfficerWorkingOn>
         </OfficerBio> */}
         <OfficerBio
-          image="https://campusgroups.rit.edu/upload/rit/2025/s1_image_5160001_Elena_ccf0f838-952f-47bd-8cb2-9884de1aabdf_1030165653.jpg"
+          image="https://campusgroups.rit.edu/get_file?eid=bb1fbe86c08d43ee63c21af49591d3d0"
           name="Elena Georgia Mpadanes"
           position="Director of Programming"
           pronouns="She/Her"
@@ -86,7 +86,7 @@ export default function Team() {
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
         <OfficerBio
-          image="https://campusgroups.rit.edu/upload/rit/2025/s1_image_5160001_JD_1cb210da-f671-4447-91a7-ea2e28560ce3_1030165553.jpg"
+          image="https://campusgroups.rit.edu/get_file?eid=847f22561e6928c04e09f88f8e3d245d"
           name="JD Berzolla"
           position="Director of Marketing"
           pronouns="He/They"
@@ -100,7 +100,7 @@ export default function Team() {
           <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn>
         </OfficerBio>
         <OfficerBio
-          image="https://campusgroups.rit.edu/upload/rit/2025/s1_image_5160001_Tadhg_948470bd-9b2a-4170-9696-eb38ccb068ca_1030165614.jpg"
+          image="https://campusgroups.rit.edu/get_file?eid=827d4d2bd37e8f48c729271cc126222e"
           name="Tadhg Hicken"
           position="Director of Internal Affairs"
           pronouns="They/He"
