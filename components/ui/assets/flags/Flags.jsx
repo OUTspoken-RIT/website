@@ -11,6 +11,7 @@ import GilbertBakerFlag from "./flaggilbert.svg";
 import IntersexFlag from "./flagintersex.svg";
 import IntersexInclusiveFlag from "./flagintersexinclusive.svg";
 import LesbianFlag from "./flaglesbian.svg";
+import MLMFlag from "./flagmlm.svg";
 import NonbinaryFlag from "./flagnonbinary.svg";
 import PansexualFlag from "./flagpansexual.svg";
 import PolyamorousFlag from "./flagpoly.svg";
@@ -37,6 +38,7 @@ export function PrideFlag({ variant }) {
     intersexinclusive: IntersexInclusiveFlag,
     intersexinclusion: IntersexInclusiveFlag,
     lesbian: LesbianFlag,
+    mlm: MLMFlag,
     nonbinary: NonbinaryFlag,
     nb: NonbinaryFlag,
     pansexual: PansexualFlag,
