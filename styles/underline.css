@@ -27,8 +27,16 @@
   background: var(--underline-normal-lesbian);
 }
 
+.underlined.mlm {
+  background: var(--underline-normal-mlm);
+}
+
 .underlined.trans {
   background: var(--underline-normal-trans);
+}
+
+.underlined.aroace {
+  background: var(--underline-normal-aroace);
 }
 
 .underlined.ace {
@@ -60,8 +68,20 @@
   background: var(--underline-dark-aro);
 }
 
+.underlined.lesbian.dark {
+  background: var(--underline-dark-lesbian);
+}
+
+.underlined.mlm.dark {
+  background: var(--underline-dark-mlm);
+}
+
 .underlined.trans.dark {
   background: var(--underline-dark-trans);
+}
+
+.underlined.aroace.dark {
+  background: var(--underline-dark-aroace);
 }
 
 .underlined.ace.dark {
