@@ -36,8 +36,8 @@ export default function Team() {
           pronouns="She/Her"
           flags="lesbian"
           email="ajc4439@g.rit.edu"
-          officeHours="M & T 7-9pm"
-          officeHoursUrl="https://rit.zoom.us/j/95076270332"
+          officeHours="M: 12-1pm, T: 1-2pm, & W: 4:30-6:30pm"
+          // officeHoursUrl="https://rit.zoom.us/j/95076270332"
         >
           <OfficerMajor>5th Year - Robotics and Manufacturing Engineering Technology BS</OfficerMajor>
           <OfficerCoffeeOrder>My go-to coffee order!
@@ -45,32 +45,32 @@ export default function Team() {
           {/* <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn> */}
         </OfficerBio>
         <OfficerBio
-          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_Leo_66915426-8228-4844-b013-e2e115d68312_112204344.jpg"
-          name="Leonel Garcia"
+          image="https://campusgroups.rit.edu/upload/rit/2026/s3_image_5160001_Anand_2425e381-12d7-471c-b88a-e05dcabf0676_3316227.jpg"
+          name="Anand Caloh"
           position="Vice President"
-          pronouns="He/Him"
-          flags="lgbt"
-          email="lag8761@g.rit.edu"
-          officeHours="M: 4-5pm, T 11:15am-12:15pm, & Th: 3-4pm"
+          pronouns="He/They"
+          flags="trans nb pan"
+          email="ac1822@g.rit.edu"
+          officeHours="T & Th: 12:30-1:30pm, W: 4:30-6:30pm"
         >
-          <OfficerMajor>2nd Year - Finance and Accounting BS</OfficerMajor>
-          <OfficerSong>My song currently on repeat!
-            Please Don''t Call (333) by Khalid</OfficerSong>
+          <OfficerMajor>2nd Year - Electrical Engineering BS</OfficerMajor>
+          <OfficerFunFact>My current hobby! 
+            Crochet and Lobotomy Corporation</OfficerFunFact>
           {/* <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn> */}
         </OfficerBio>
-        {/* <OfficerBio
-          image=""
-          name=""
+        <OfficerBio
+          image="https://campusgroups.rit.edu/upload/rit/2026/s3_image_5160001_lu_57cecbd6-fc8c-4bf4-9753-7c25c4f832e7_3316227.jpg"
+          name="Emily Lu"
           position="Director of Finance"
-          pronouns=""
-          flags=""
-          email=""
-          officeHours=""
+          pronouns="She/They"
+          flags="intersexinclusive"
+          email="el2902@rit.edu"
+          officeHours="F: 10-11am, 12-2pm, & 3-4pm"
         >
-          <OfficerMajor></OfficerMajor>
-          <OfficerFunFact></OfficerFunFact>
-          <OfficerWorkingOn></OfficerWorkingOn>
-        </OfficerBio> */}
+          <OfficerMajor>2nd Year - Graphic Design BA</OfficerMajor>
+          <OfficerFunFact>My favorite movie! The Half of It</OfficerFunFact>
+          {/* <OfficerWorkingOn></OfficerWorkingOn> */}
+        </OfficerBio>
         <OfficerBio
           image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_Elena_8f5d65d8-9559-4f1b-b9b8-f874ded7b38f_11220441.jpg"
           name="Elena Georgia Mpadanes"
@@ -78,7 +78,7 @@ export default function Team() {
           pronouns="She/Her"
           flags="bi intersexinclusive"
           email="em1792@rit.edu"
-          officeHours="T & Th: 12:30-1:30pm"
+          officeHours="T & Th: 11:15am-12:15pm"
         >
           <OfficerMajor>2nd Year - Cognitive Science PhD</OfficerMajor>
           <OfficerFunFact>Fun fact about me!
@@ -92,7 +92,7 @@ export default function Team() {
           pronouns="He/They"
           flags="demiboy demiromantic intersexinclusive"
           email="jdb8337@rit.edu"
-          officeHours="T: 3-5pm"
+          officeHours="T: 3:30-5:30pm"
         >
           <OfficerMajor>1st Year - B.S. Software Engineering</OfficerMajor>
           <OfficerCoffeeOrder>My go-to coffee order!
@@ -100,17 +100,17 @@ export default function Team() {
           {/* <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn> */}
         </OfficerBio>
         <OfficerBio
-          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_Tadhg_d983b3db-d424-4734-a36d-5c2fdc2fa072_112204313.jpg"
-          name="Tadhg Hicken"
+          image="https://campusgroups.rit.edu/upload/rit/2026/s3_image_5160001_harvest_e286be30-6144-4ec9-8b81-265908fb8787_3316227.jpg"
+          name="Harvest Schewe"
           position="Director of Internal Affairs"
-          pronouns="They/He"
-          flags="trans nb ace"
-          email="blh1342@rit.edu"
-          officeHours="T & Th: 2-3pm"
+          pronouns="They/Them"
+          flags="bi unlabled poly"
+          email="bjh3059@g.rit.edu"
+          officeHours="F: 2-4pm"
         >
-          <OfficerMajor>2nd Year - Cognitive Science PhD</OfficerMajor>
-          <OfficerFunFact>Fun fact about me!
-            I'm a climber!</OfficerFunFact>
+          <OfficerMajor>3rd Year - Medical Illustration BFA</OfficerMajor>
+          <OfficerCoffeeOrder>My go-to coffee order!
+            Iced chai with oat milk</OfficerCoffeeOrder>
           {/* <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn> */}
         </OfficerBio>
       </CenteredLayout>

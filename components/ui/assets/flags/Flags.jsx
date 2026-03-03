@@ -1,3 +1,4 @@
+import AroaceFlag from "./flagaroace.svg";
 import AromanticFlag from "./flagaromantic.svg";
 import AsexualFlag from "./flagasexual.svg";
 import BisexualFlag from "./flagbisexual.svg";
@@ -17,9 +18,11 @@ import PansexualFlag from "./flagpansexual.svg";
 import PolyamorousFlag from "./flagpoly.svg";
 import ProgressFlag from "./flagprogress.svg";
 import TransFlag from "./flagtrans.svg";
+import UnlabledFlag from "./flagunlabled.svg";
 
 export function PrideFlag({ variant }) {
   const validVariants = {
+    aroace: AroaceFlag,
     aromantic: AromanticFlag,
     aro: AromanticFlag,
     asexual: AsexualFlag,
@@ -50,6 +53,7 @@ export function PrideFlag({ variant }) {
     lgbt: ProgressFlag,
     transgender: TransFlag,
     trans: TransFlag,
+    unlabled: UnlabledFlag,
   };
 
   const safeFlagKey = Object.keys(validVariants).includes(variant) ? variant : "progress";
