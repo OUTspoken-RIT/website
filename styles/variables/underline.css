@@ -152,20 +152,20 @@
 
   --underline-normal-mlm: linear-gradient(
       to right,
-      var(#078d70) 0%,
-      var(#078d70) 14.26%,
-      var(#26ceaa) 14.26%,
-      var(#26ceaa) 28.55%,
-      var(#98e8c1) 28.55%,
-      var(#98e8c1) 42.84%,
+      #078d70 0%,
+      #078d70 14.26%,
+      #26ceaa 14.26%,
+      #26ceaa 28.55%,
+      #98e8c1 28.55%,
+      #98e8c1 42.84%,
       var(--white) 42.84%,
       var(--white) 57.13%,
-      var(#7bade2) 57.13%,
-      var(#7bade2) 71.42%,
-      var(#5049cc) 71.42%,
-      var(#5049cc) 85.71,
-      var(#3d1a78) 85.71%,
-      var(#3d1a78) 100%
+      #7bade2 57.13%,
+      #7bade2 71.42%,
+      #5049cc 71.42%,
+      #5049cc 85.71,
+      #3d1a78 85.71%,
+      #3d1a78 100%
       )
       var(--underline-background-settings);
 
@@ -186,16 +186,16 @@
 
   --underline-normal-aroace: linear-gradient(
       to right,
-      var(#e38d00) 0%,
-      var(#e38d00) 20%,
-      var(#e7c601) 20%,
-      var(#e7c601) 40%,
+      #e38d00 0%,
+      #e38d00 20%,
+      #e7c601 20%,
+      #e7c601 40%,
       var(--white) 40%,
       var(--white) 60%,
-      var(#5faad7) 60%,
-      var(#5faad7) 80%,
-      var(#1f3554) 80%,
-      var(#1f3554) 100%
+      #5faad7 60%,
+      #5faad7 80%,
+      #1f3554 80%,
+      #1f3554 100%
     )
     var(--underline-background-settings);
 
@@ -302,35 +302,35 @@
 
   --underline-dark-lesbian: linear-gradient(
       to right,
-      var(#CC062D) 0%,
-      var(#CC062D) 20%,
-      var(#D98200) 20%,
-      var(#D98200) 40%,
+      #CC062D 0%,
+      #CC062D 20%,
+      #D98200 20%,
+      #D98200 40%,
       var(--foam) 40%,
       var(--foam) 60%,
-      var(#D95092) 60%,
-      var(#D95092) 80%,
-      var(#860E7F) 80%,
-      var(#860E7F) 100%
+      #D95092 60%,
+      #D95092 80%,
+      #860E7F 80%,
+      #860E7F 100%
     )
     var(--underline-background-settings);
 
   --underline-dark-mlm: linear-gradient(
       to right,
-      var(#007263) 0%,
-      var(#007263) 14.26%,
-      var(#00B39D) 14.26%,
-      var(#00B39D) 28.55%,
-      var(#72CDB4) 28.55%,
-      var(#72CDB4) 42.84%,
+      #007263 0%,
+      #007263 14.26%,
+      #00B39D 14.26%,
+      #00B39D 28.55%,
+      #72CDB4 28.55%,
+      #72CDB4 42.84%,
       var(--foam) 42.84%,
       var(--foam) 57.13%,
-      var(#5592D5) 57.13%,
-      var(#5592D5) 71.42%,
-      var(#2A2EBF) 71.42%,
-      var(#2A2EBF) 85.71,
-      var(#17006B) 85.71%,
-      var(#17006B) 100%
+      #5592D5 57.13%,
+      #5592D5 71.42%,
+      #2A2EBF 71.42%,
+      #2A2EBF 85.71,
+      #17006B 85.71%,
+      #17006B 100%
       )
       var(--underline-background-settings);
 
@@ -351,16 +351,16 @@
 
   --underline-dark-aroace: linear-gradient(
       to right,
-      var(#BD7200) 0%,
-      var(#BD7200) 20%,
-      var(#C1AB00) 20%,
-      var(#C1AB00) 40%,
+      #BD7200 0%,
+      #BD7200 20%,
+      #C1AB00 20%,
+      #C1AB00 40%,
       var(--foam) 40%,
       var(--foam) 60%,
-      var(#398FCA) 60%,
-      var(#398FCA) 80%,
-      var(#001A47) 80%,
-      var(#001A47) 100%
+      #398FCA 60%,
+      #398FCA 80%,
+      #001A47 80%,
+      #001A47 100%
     )
     var(--underline-background-settings);
 
