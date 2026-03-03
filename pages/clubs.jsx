@@ -33,15 +33,16 @@ export default function Clubs() {
         </PageIntro>
       </CenteredLayout>
       <CenteredLayout color="foam">
+        
         {/* ASPACE */}
         <ClubListing
           clubName="A-Space"
           shortName="aspace"
           logo="https://campusgroups.rit.edu/upload/rit/2017/s3_image_upload_548117_A_SPACE01_1112111_crop.jpeg"
-          underline="ace"
+          underline="aroace"
           instagram="aspacerit"
           email="aspace@rit.edu"
-          flags="aro ace"
+          flags="aroace aro ace"
         >
           <ClubListingDescription>
             <p>
@@ -55,7 +56,7 @@ export default function Clubs() {
             </p>
           </ClubListingDescription>
           <ClubListingMeetingInfo>
-            <p>A-Space's meeting times are TBD.</p>
+            <p>A-Space's meeting times are Tuesdays 7:30-9:30pm LBR-3232.</p>
           </ClubListingMeetingInfo>
         </ClubListing>
 
@@ -67,7 +68,7 @@ export default function Clubs() {
           underline="rainbow"
           instagram="coslisc"
           email="coslisc.rit@gmail.com"
-          flags="lgbt"
+          flags="intersexinclusion"
         >
           <ClubListingDescription>
             <p>
@@ -95,7 +96,7 @@ export default function Clubs() {
           twitter="UpDqa"
           instagram="ritdqa"
           email="ritdqa@gmail.com"
-          flags="lgbt"
+          flags="intersexinclusion"
         >
           <ClubListingDescription>
             <p>
@@ -105,7 +106,7 @@ export default function Clubs() {
             </p>
           </ClubListingDescription>
           <ClubListingMeetingInfo>
-            <p>Deaf Queer Alliance's meeting times are TBD.</p>
+            <p>Deaf Queer Alliance is currently inactive.</p>
           </ClubListingMeetingInfo>
         </ClubListing>
 
@@ -117,7 +118,7 @@ export default function Clubs() {
           underline="rainbow"
           instagram="ritdrag_club"
           email="ritdragclub@rit.edu"
-          flags="lgbt"
+          flags="intersexinclusion"
         >
           <ClubListingDescription>
             <p>
@@ -131,7 +132,7 @@ export default function Clubs() {
             </p>
           </ClubListingDescription>
           <ClubListingMeetingInfo>
-            <p>Drag Club's meeting times are TBD.</p>
+            <p>Drag Club's meeting times are Tuesdays 8-10pm in Webb Auditorium.</p>
           </ClubListingMeetingInfo>
         </ClubListing>
 
@@ -156,7 +157,7 @@ export default function Clubs() {
             </p>
           </ClubListingDescription>
           <ClubListingMeetingInfo>
-            <p>Labrys's meeting times are TBD.</p>
+            <p>Labrys Alliance's meeting times are Wednesday 7-8pm in PRISM.</p>
           </ClubListingMeetingInfo>
         </ClubListing>
 
@@ -168,7 +169,7 @@ export default function Clubs() {
           underline="rainbow"
           instagram="queerncolor_rit"
           email="qnc@rit.edu"
-          flags="lgbt"
+          flags="intersexinclusion"
         >
           <ClubListingDescription>
             <p>
@@ -182,7 +183,7 @@ export default function Clubs() {
             </p>
           </ClubListingDescription>
           <ClubListingMeetingInfo>
-            <p>Queer N Color's meeting times are TBD.</p>
+            <p>Queer N Color's meeting times are Sunday 2-4pm in MOSAIC Center.</p>
           </ClubListingMeetingInfo>
         </ClubListing>
 
@@ -194,7 +195,7 @@ export default function Clubs() {
           underline="rainbow"
           instagram="qstemrit"
           email="qstem@rit.edu"
-          flags="lgbt"
+          flags="intersexinclusion"
         >
           <ClubListingDescription>
             <p>
@@ -208,7 +209,7 @@ export default function Clubs() {
             </p>
           </ClubListingDescription>
           <ClubListingMeetingInfo>
-            <p>Queer in STEM's meeting times are TBD.</p>
+            <p>Queer in STEM's meeting times are biweekly on Mondays 5-7pm in PRISM.</p>
           </ClubListingMeetingInfo>
         </ClubListing>
 
@@ -233,7 +234,7 @@ export default function Clubs() {
             </p>
           </ClubListingDescription>
           <ClubListingMeetingInfo>
-            <p>SAGA's meeting times are TBD.</p>
+            <p>SAGA's meeting times are Thursday 8-9pm Kate Gleason Hall A055.</p>
           </ClubListingMeetingInfo>
         </ClubListing>
 
@@ -244,7 +245,7 @@ export default function Clubs() {
           logo="https://campusgroups.rit.edu/upload/rit/2020/s3_image_upload_642141_logo_81911310.png"
           underline="trans"
           email="tangent@rit.edu"
-          flags="trans nb"
+          flags="trans nb demigender"
         >
           <ClubListingDescription>
             <p>
@@ -258,7 +259,7 @@ export default function Clubs() {
             </p>
           </ClubListingDescription>
           <ClubListingMeetingInfo>
-            <p>Tangent's meeting times are TBD.</p>
+            <p>Tangent's meeting times are Friday 2-4pm in PRISM.</p>
           </ClubListingMeetingInfo>
         </ClubListing>
       </CenteredLayout>
