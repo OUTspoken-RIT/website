@@ -31,7 +31,7 @@ export function ClothesListing({
       <div className="colors">{swatches}</div>
       <div className="sizes">{sizes}</div>
       <h4>
-        Product and sizing info <a href={sizingLink}>here</a>
+        Product and sizing info <a href={sizingLink} target="_blank">here</a>
       </h4>
     </article>
   );

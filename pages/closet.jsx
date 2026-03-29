@@ -23,7 +23,7 @@ export default function Closet() {
             <Subheading>@ outspoken</Subheading>
           </div>
         </IconTitle>
-        <PageIntro>
+        <PageIntro> 
           <p>
             We partner with the Women, Gender, and Sexuality Resouce Center to
             stock all the resources you'll need to thrive. Continue on to see
@@ -37,11 +37,11 @@ export default function Closet() {
           imageAlt="model wearing a spectrum binder"
           imageSide="left"
           itemName="Binders"
-          itemColors="#DEC6A8 #9B6049"
+          itemColors="#DEC6A8 #d4a264 #000"
           itemSizes="XS SM MD LG XL 2X 3X 4X 5X"
-          sizingLink="https://www.spectrumoutfitters.us/products/deep-short-chest-binder"
+          sizingLink="https://thefluxion.com/sizing/"
         >
-          We carry Spectrum binders in our office. If you need a size we don't
+          We carry Fluxion binders in our office. If you need a size we don't
           have, we’ll let you know when we restock! Come to our office to pick
           one up for free!
         </ClothesListing>
