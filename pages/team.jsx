@@ -30,7 +30,7 @@ export default function Team() {
       </CenteredLayout>
       <CenteredLayout color="foam">
         <OfficerBio
-          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_Angelis_5462edc9-46c5-4ea9-a0a2-05a1244572d2_112204328.jpg"
+          image="https://cglink.me/2d1/d10888d50564d7468af4e4aa42fb269ef0cf95033f936ad9d6fe6e47b8cc78b4c"
           name="Emily Lu"
           position="President"
           pronouns="She/Her"
@@ -71,7 +71,7 @@ export default function Team() {
           {/* <OfficerWorkingOn></OfficerWorkingOn> */}
         </OfficerBio>
         <OfficerBio
-          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_Elena_8f5d65d8-9559-4f1b-b9b8-f874ded7b38f_11220441.jpg"
+          image="https://campusgroups.rit.edu/get_file?eid=5f0e501c25191f8580e2ccfdd8911634"
           name="We Are Currently Hiring for Directors of Events!"
           position="Director of Events"
           pronouns="Pro/Nouns"
@@ -84,7 +84,7 @@ export default function Team() {
           {/* <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn> */}
         </OfficerBio>
         <OfficerBio
-          image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_JD_27529fc9-9bde-41d1-a0ce-2a1eb02720a6_112204417.jpg"
+          image="https://campusgroups.rit.edu/get_file?eid=5f0e501c25191f8580e2ccfdd8911634"
           name="We Are Currently Hiring for a Director of Marketing!"
           position="Director of Marketing"
           pronouns="Pro/Nouns"
