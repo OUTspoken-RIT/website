@@ -30,7 +30,7 @@ export default function Team() {
       </CenteredLayout>
       <CenteredLayout color="foam">
         <OfficerBio
-          image="https://cglink.me/2d1/d10888d50564d7468af4e4aa42fb269ef0cf95033f936ad9d6fe6e47b8cc78b4c"
+          image="https://campusgroups.rit.edu/get_file?eid=bfdb185476820f4c4565059c7478f58a"
           name="Emily Lu"
           position="President"
           pronouns="She/Her"
