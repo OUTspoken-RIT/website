@@ -58,7 +58,7 @@ export default function Team() {
           {/* <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn> */}
         </OfficerBio>
         <OfficerBio
-          image="https://campusgroups.rit.edu/upload/rit/2026/s3_image_5160001_lu_57cecbd6-fc8c-4bf4-9753-7c25c4f832e7_3316227.jpg"
+          image="https://campusgroups.rit.edu/get_file?eid=5f0e501c25191f8580e2ccfdd8911634"
           name="We Are Currently Hiring for a Director of Finance!"
           position="Director of Finance"
           pronouns="Pro/Nouns"
