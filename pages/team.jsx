@@ -59,7 +59,7 @@ export default function Team() {
         </OfficerBio>
         <OfficerBio
           image="https://campusgroups.rit.edu/upload/rit/2026/s3_image_5160001_lu_57cecbd6-fc8c-4bf4-9753-7c25c4f832e7_3316227.jpg"
-          name="We Are Hiring a Director of Finance for the 26-27 Academic Year!"
+          name="We Are Currently Hiring for a Director of Finance!"
           position="Director of Finance"
           pronouns="Pro/Nouns"
           flags="intersexinclusive"
@@ -72,7 +72,7 @@ export default function Team() {
         </OfficerBio>
         <OfficerBio
           image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_Elena_8f5d65d8-9559-4f1b-b9b8-f874ded7b38f_11220441.jpg"
-          name="We Are Hiring Directors of Events for the 26-27 Academic Year!"
+          name="We Are Currently Hiring for Directors of Events!"
           position="Director of Events"
           pronouns="Pro/Nouns"
           flags="intersexinclusive"
@@ -85,7 +85,7 @@ export default function Team() {
         </OfficerBio>
         <OfficerBio
           image="https://campusgroups.rit.edu/upload/rit/2025/s3_image_5160001_JD_27529fc9-9bde-41d1-a0ce-2a1eb02720a6_112204417.jpg"
-          name="We Are Hiring a Director of Marketing for the 26-27 Academic Year!"
+          name="We Are Currently Hiring for a Director of Marketing!"
           position="Director of Marketing"
           pronouns="Pro/Nouns"
           flags="intersexinclusive"
