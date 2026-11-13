@@ -120,8 +120,8 @@ export default function Team() {
           email="jmv2690@rit.edu"
           officeHours="Mon: 1-2PM, Wed: 1-2PM"
         >
-          <OfficerMajor>4th year - Psychology</OfficerMajor>
-          <OfficerFunFact>I love reading, painting, ceramics, and collecting smiskis!</OfficerFunFact>
+          <OfficerMajor>3rd year - Game Design & Development</OfficerMajor>
+          <OfficerFunFact>My fav color is pastel pink!</OfficerFunFact>
           {/* <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn> */}
         </OfficerBio>
       </CenteredLayout>
