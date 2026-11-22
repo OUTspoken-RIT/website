@@ -30,7 +30,7 @@ export default function Team() {
       </CenteredLayout>
       <CenteredLayout color="foam">
         <OfficerBio
-          image git agg src="/Users/anaissantiago/Documents/GitHub/website/pictures/Lu_Emily_Headshot.jpg" width={500} height={500} 
+          image="https://outspoken-rit.github.io/website/cglink.me/2d1/d879c73a3fd5239b5f687849c78c93896440dbc23e2e35878b8f31a8869c1ce3d" 
           name="Emily Lu"
           position="President"
           pronouns="She/Her"
