@@ -30,7 +30,7 @@ export default function Team() {
       </CenteredLayout>
       <CenteredLayout color="foam">
         <OfficerBio>
-           <img src="/Users/anaissantiago/Documents/GitHub/website/pictures/Lu_Emily_Headshot.jpg" width={500} height={500} />"
+          img src="/Users/anaissantiago/Documents/GitHub/website/pictures/Lu_Emily_Headshot.jpg" width={500} height={500} 
           name="Emily Lu"
           position="President"
           pronouns="She/Her"
@@ -38,7 +38,7 @@ export default function Team() {
           email="el2902@rit.edu"
           officeHours="Friday 10am-2pm"
           // officeHoursUrl="https://rit.zoom.us/j/95076270332"
-        
+        >
           <OfficerMajor>2nd Year - Graphic Design BFA</OfficerMajor>
           <OfficerFunFact>My favorite movie! The Half of It</OfficerFunFact>
           {/* <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn> */}
