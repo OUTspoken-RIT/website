@@ -29,8 +29,8 @@ export default function Team() {
         </PageIntro>
       </CenteredLayout>
       <CenteredLayout color="foam">
-        <OfficerBio
-          image="https://cglink.me/2d1/d1c83cce72b7e7ce4245e77ec3a6d9e7315d097fe547dca5897307ca373517f6e"
+        <OfficerBio>
+           <img src="/Users/anaissantiago/Documents/GitHub/website/pictures/Lu_Emily_Headshot.jpg" width={500} height={500} />"
           name="Emily Lu"
           position="President"
           pronouns="She/Her"
@@ -38,13 +38,13 @@ export default function Team() {
           email="el2902@rit.edu"
           officeHours="Friday 10am-2pm"
           // officeHoursUrl="https://rit.zoom.us/j/95076270332"
-        >
+        
           <OfficerMajor>2nd Year - Graphic Design BFA</OfficerMajor>
           <OfficerFunFact>My favorite movie! The Half of It</OfficerFunFact>
           {/* <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn> */}
         </OfficerBio>
         <OfficerBio
-          image="https://cglink.me/2d1/d722cda2a1d7f8f364d2a9260172a860bcda9cb6c98c98a58ebbab0c4d7b3733b"
+          image="https://outspoken-rit.github.io/website/cglink.me/2d1/d5c45fab9a16c3c9289fc147e80c9edc76813cceac5415ec9ffb2b98a6cfda51c"
           name="Ananda Caloh"
           position="Vice President"
           pronouns="He/They"
@@ -58,12 +58,12 @@ export default function Team() {
           {/* <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn> */}
         </OfficerBio>
         <OfficerBio
-          image="https://cglink.me/2d1/da3ce913d6384ac9f6e8746e722882b9791ce7ec90d0c77c2cc274baf4c96b4c3"
+          image="https://cglink.me/2d1/d52b237a4e5420f5aaca190af5c2d274787bdab51bb022468a497b1a625be8b2"
           name="Natalie Martin"
           position="Director of Finance"
           pronouns="Any/All"
           flags="ace aromantic intersexinclusive"
-          email="nem7527@@rit.edu"
+          email="nem7527@rit.edu"
           officeHours="Tue: 11-12pm, 5-7PM Thurs: 11-12PM"
         >
           <OfficerMajor>4th Year - Medical Illustration</OfficerMajor>
@@ -71,7 +71,7 @@ export default function Team() {
           {/* <OfficerWorkingOn></OfficerWorkingOn> */}
         </OfficerBio>
         <OfficerBio
-          image="https://cglink.me/2d1/d1ff9cb18533f8be4792a9c487edde3d6cdb9f7cc6878bbfac9ff79cc457c5021"
+          image="https://cglink.me/2d1/da57d051328d4b3fcef7cd33f6155a861837427b30bc4d63e75e40a32070ade3f"
           name="Anais Santiago"
           position="Director of Marketing"
           pronouns="She/He/They"
@@ -84,12 +84,12 @@ export default function Team() {
           {/* <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn> */}
         </OfficerBio>
        <OfficerBio
-          image="https://cglink.me/2d1/d451dc2501d2f2f7452b33eef3e68f5e42802b524dafae3b1d79ea19dfd4dfa"
+          image="https://cglink.me/2d1/de4782cc175b5f0fef55ae8ba40af3f61754b673dea477c2f72d399a17fcbab68"
           name="Harvest Schewe"
           position="Director of Internal Affairs"
           pronouns="They/She"
-          flags="bi unlabled flagprogress"
-          email="bjh3059@g.rit.edu"
+          flags="bi unlabled intersexinclusive"
+          email="bjh3059@rit.edu"
           officeHours="Wed: 5-7pm"
         >
           <OfficerMajor>4th Year - Medical Illustration BFA</OfficerMajor>
@@ -102,7 +102,7 @@ export default function Team() {
           name="Jada Farquharson"
           position="Director of Programming"
           pronouns="She/Her"
-          flags="lesbian"
+          flags="lesbian intersexinclusive"
           email="jef5186@rit.edu"
           officeHours="Thurs: 4-6PM"
         >
@@ -112,7 +112,7 @@ export default function Team() {
           {/* <OfficerWorkingOn>I'm excited to work on ...</OfficerWorkingOn> */}
         </OfficerBio>
         <OfficerBio
-          image="https://cglink.me/2d1/df9efc067738096dbb93229c04d2bc6928fc7a2b79069ab8f7e865a539ba36533"
+          image="https://cglink.me/2d1/d5bab5d44f7ed8c1ac7ecfbf5c610d21545d7ac7880c01f123d6db7229bd458d"
           name="Josie Verive-Cain"
           position="Director of Programming"
           pronouns="Any/All"
