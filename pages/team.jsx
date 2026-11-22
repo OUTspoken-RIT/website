@@ -29,8 +29,8 @@ export default function Team() {
         </PageIntro>
       </CenteredLayout>
       <CenteredLayout color="foam">
-        <OfficerBio>
-          img src="/Users/anaissantiago/Documents/GitHub/website/pictures/Lu_Emily_Headshot.jpg" width={500} height={500} 
+        <OfficerBio
+          image git agg src="/Users/anaissantiago/Documents/GitHub/website/pictures/Lu_Emily_Headshot.jpg" width={500} height={500} 
           name="Emily Lu"
           position="President"
           pronouns="She/Her"
