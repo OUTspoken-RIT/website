@@ -75,7 +75,7 @@ export default function Team() {
           name="Anais Santiago"
           position="Director of Marketing"
           pronouns="She/He/They"
-          flags="nb lesbian "
+          flags="nb lesbian intersexinclusive"
           email="ars8533@rit.edu"
           officeHours="Tues: 2-4PM"
         >
